@@ -1,4 +1,4 @@
-This project a update version of Viberr(the newboston youtube channel)
+This project a is update version of Viberr(the newboston youtube channel)
 link https://www.youtube.com/watch?v=qgGIqRFvFFk&list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK
 
 I decide to update it to the last version of django (django 5.1) since it was build on Django2.x
